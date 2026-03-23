@@ -202,8 +202,7 @@ def get_saved_upload_path(settings: Dict[str, Any]) -> Optional[Path]:
 
 
 def settings_expander_visible() -> bool:
-    required_file = Path(__file__).resolve().parent / "sichtbar.xlsx"
-    return required_file.exists() and required_file.is_file()
+    return True
 
 
 def clear_saved_upload(settings: Dict[str, Any]) -> Dict[str, Any]:
