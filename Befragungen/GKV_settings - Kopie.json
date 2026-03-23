@@ -1,0 +1,23 @@
+{
+  "app_title": "Fragen zu Ihrem aktuellen KV-Status",
+  "app_subtitle": "",
+  "show_header": true,
+  "show_subheader": false,
+  "upload_label": "Excel-Datei hochladen",
+  "expander_closed_bg": "#e8eef8",
+  "expander_closed_text": "#0a2b55",
+  "expander_open_bg": "#0a2b55",
+  "expander_open_text": "#ffffff",
+  "settings_protection_enabled": false,
+  "settings_password_hash": "",
+  "settings_hint": "",
+  "shortcut_combo": "MEX",
+  "shortcut_enabled": true,
+  "saved_upload_path": "gkv_saved_uploads\\last_upload.xlsx",
+  "saved_upload_name": "GKV.xlsx",
+  "settings_ip_protection_enabled": true,
+  "settings_allowed_ips": [
+    "192.168.2.167"
+  ],
+  "settings_visibility_mode": "ip_or_shortcut"
+}

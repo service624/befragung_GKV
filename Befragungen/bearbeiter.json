@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "name": "Alexander von Dziengel",
+      "role": "admin",
+      "password_hash": "7811da4e8fdd887d53b2113b47621d6da86ab710b59980b115ca5b6336bb13b7"
+    },
+    {
+      "name": "Stefanie Hieronymus",
+      "role": "user",
+      "password_hash": "7811da4e8fdd887d53b2113b47621d6da86ab710b59980b115ca5b6336bb13b7"
+    },
+    {
+      "name": "Thorsten Wiesen",
+      "role": "user",
+      "password_hash": "7811da4e8fdd887d53b2113b47621d6da86ab710b59980b115ca5b6336bb13b7"
+    },
+    {
+      "name": "Thomas Obergasser",
+      "role": "user",
+      "password_hash": "7811da4e8fdd887d53b2113b47621d6da86ab710b59980b115ca5b6336bb13b7"
+    },
+    {
+      "name": "Kevin Carta",
+      "role": "user",
+      "password_hash": "7811da4e8fdd887d53b2113b47621d6da86ab710b59980b115ca5b6336bb13b7"
+    },
+    {
+      "name": "Furkan Koyun",
+      "role": "user",
+      "password_hash": "7811da4e8fdd887d53b2113b47621d6da86ab710b59980b115ca5b6336bb13b7"
+    },
+    {
+      "name": "Maximilian Wegner",
+      "role": "user",
+      "password_hash": "7811da4e8fdd887d53b2113b47621d6da86ab710b59980b115ca5b6336bb13b7"
+    },
+    {
+      "name": "Liam Pfaff",
+      "role": "user",
+      "password_hash": "7811da4e8fdd887d53b2113b47621d6da86ab710b59980b115ca5b6336bb13b7"
+    },
+    {
+      "name": "Yasmin Laoukili",
+      "role": "user",
+      "password_hash": "7811da4e8fdd887d53b2113b47621d6da86ab710b59980b115ca5b6336bb13b7"
+    },
+    {
+      "name": "Mohamed Amin Bjane",
+      "role": "user",
+      "password_hash": "7811da4e8fdd887d53b2113b47621d6da86ab710b59980b115ca5b6336bb13b7"
+    }
+  ],
+  "default_user": "Alexander von Dziengel",
+  "editor_ui": "popup",
+  "master_password_hash": ""
+}
